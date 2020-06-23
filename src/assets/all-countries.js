@@ -498,7 +498,7 @@ const allCountries = [
     '504',
   ],
   [
-    'Hong Kong (香港)',
+    'Hong Kong SAR',
     'hk',
     '852',
   ],
@@ -652,7 +652,7 @@ const allCountries = [
     '352',
   ],
   [
-    'Macau (澳門)',
+    'Macau SAR',
     'mo',
     '853',
   ],
@@ -1097,7 +1097,7 @@ const allCountries = [
     '963',
   ],
   [
-    'Taiwan (台灣)',
+    'Taiwan Region',
     'tw',
     '886',
   ],
